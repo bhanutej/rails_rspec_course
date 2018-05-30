@@ -35,6 +35,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'rake', '< 11.0'
 gem 'bootstrap-sass'
 gem 'autoprefixer-rails'
+gem 'jquery-rails'
 
 group :development, :test do
   gem 'rspec-rails'
