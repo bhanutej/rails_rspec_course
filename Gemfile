@@ -36,6 +36,7 @@ gem 'rake', '< 11.0'
 gem 'bootstrap-sass'
 gem 'autoprefixer-rails'
 gem 'jquery-rails'
+gem 'devise'
 
 group :development, :test do
   gem 'rspec-rails'
